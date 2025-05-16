@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#1DA1F2"           # Bright, friendly blue (like Twitter blue) — confident & fresh
+backgroundColor = "#F0F8FF"        # Alice Blue — soft, clean, easy on eyes
+secondaryBackgroundColor = "#A0D8EF" # Light Sky Blue — calm & inviting accent
+textColor = "#222222"              # Dark charcoal — crisp and readable
+font = "sans serif"

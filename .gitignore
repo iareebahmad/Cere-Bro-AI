@@ -1,0 +1,16 @@
+# Python cache and compiled files
+__pycache__/
+*.pyc
+
+# Virtual environment folder
+venv/
+
+# IDE-specific folders (e.g., PyCharm or VSCode)
+.idea/
+.vscode/
+
+# MacOS system file
+.DS_Store
+
+# Streamlit secrets (NEVER upload secrets.toml with real API keys)
+.streamlit/secrets.toml
